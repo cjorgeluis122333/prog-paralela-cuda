@@ -20,7 +20,7 @@
 
 ### How to execute a CUDA project
 
-You have to go to the next url:
+You have to go to the next url (Important): If your country is blocked you have to use vpn
 
 ```
 https://colab.research.google.com/#scrollTo=DfhueKZ4OOdM
